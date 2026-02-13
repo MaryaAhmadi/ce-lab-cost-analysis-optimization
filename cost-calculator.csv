@@ -1,0 +1,7 @@
+Monthly Cost;Weekly Cost;Hours;Type;Resource
+$0;$0;stopped;t3.small;EC2 i-02ff2d33c91eefa8d
+$0.64;$0.16;N/A;gp3 8GB;EBS vol-03cfd68d751dafdb9
+$0.64;$0.16;N/A;gp3 8GB;EBS vol-0bf19ce1fe0db2f36
+;;;;
+Total Weekly Cost ? $0.32;;;;
+Total Monthly Cost ? $1.28;;;;
